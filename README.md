@@ -16,13 +16,13 @@
 <h3>Installation</h3>
 <p>To use this project locally:</p>
 
-<p><strong>1.</strong> Clone the repository to your local machine:</p>
+<p><strong>1. Clone the repository to your local machine:</strong></p>
 <p>git clone https://github.com/pitambersingh729/javascript-custom-tabs.git</p>
 
-<p><strong>2.</strong> Navigate into the project directory:</p>
+<p><strong>2. Navigate into the project directory:</strong></p>
 <p>cd javascript-custom-tabs</p>
 
-<p><strong>3.</strong> Open the index.html file in your preferred browser to see the tabs in action.</p>
+<p><strong>3. Open the index.html file in your preferred browser to see the tabs in action.</strong></p>
 
 <h3>Usage</h3>
 <ul>
