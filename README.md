@@ -1,4 +1,8 @@
-# javascript-custom-tabs
+# Javascript Custom Tabs
+
+<h3>Demo</h3>
+<p><a href="https://pitambersingh.com/javascript-plugins/javascript-custom-tabs/" target="_blank">Demo Link</a></p>
+
 <p>This project demonstrates the implementation of custom tabs using vanilla JavaScript. The tabs dynamically switch between different sections of content, providing a clean and interactive user interface.</p>
 
 <h3>Features</h3>
@@ -29,37 +33,6 @@
 
 <h3>Customization</h3>
 <p>Feel free to modify the content or design of the tabs to fit your needs. You can easily add more tabs by extending the HTML structure and linking them to the corresponding content sections.</p>
-
-<h3>Example Code</h3>
-<p>Here's a basic structure of how the tabs work:</p>
-
-<h3>HTML Code:</h3>
-```html
-<div class="container">
-  <div class="tabbing">
-    <ul class="tabs">
-      <li class="tab-link active" data-target="tab1">Tab 1</li>
-      <li class="tab-link" data-target="tab2">Tab 2</li>
-      <li class="tab-link" data-target="tab3">Tab 3</li>
-    </ul>
-    <div class="tabbed-content">
-      <div class="tab active" data-target="tab1">
-        <h2>Tab 1 Content</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, voluptate, quod, quibusdam, doloremque quae voluptates quia quidem nemo quos autem fugit doloribus. Quisquam, voluptate, quod, quibusdam, doloremque quae voluptates quia quidem nemo quos autem fugit doloribus.</p>
-      </div>
-      <div class="tab" data-target="tab2">
-        <h2>Tab 2 Content</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-      </div>
-      <div class="tab" data-target="tab3">
-        <h2>Tab 3 Content</h2>
-        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<p>The JavaScript logic listens for clicks on the tab items and dynamically updates the visible content.</p>
 
 <h3>Contributing</h3>
 <p>If you'd like to contribute to this project, feel free to submit a pull request or open an issue on GitHub.</p>
