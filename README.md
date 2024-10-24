@@ -34,6 +34,7 @@
 <p>Here's a basic structure of how the tabs work:</p>
 
 <h3>HTML Code:</h3>
+```html
 <div class="container">
   <div class="tabbing">
     <ul class="tabs">
