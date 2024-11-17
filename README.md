@@ -1,7 +1,7 @@
 # Javascript Custom Tabs
 
 <h3>Demo</h3>
-<p><a href="https://pitambersingh.com/javascript-plugins/javascript-custom-tabs/" target="_blank" rel="follow">Demo Link</a></p>
+<p><a href="https://pitambersingh.com/javascript-plugins/javascript-custom-tabs/" target="_blank" rel="follow">https://pitambersingh.com/javascript-plugins/javascript-custom-tabs/</a></p>
 
 <p>This project demonstrates the implementation of custom tabs using vanilla JavaScript. The tabs dynamically switch between different sections of content, providing a clean and interactive user interface.</p>
 
