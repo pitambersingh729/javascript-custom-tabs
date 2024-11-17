@@ -8,28 +8,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css" />
-<title>Javascript Custom Tabs</title>
+<title>Quiz App</title>
 </head>
 <body>
 <div class="container">
-  <div class="tabbing">
-    <ul class="tabs">
-      <li class="tab-link active" data-target="tab1">Tab 1</li>
-      <li class="tab-link" data-target="tab2">Tab 2</li>
-      <li class="tab-link" data-target="tab3">Tab 3</li>
-    </ul>
-    <div class="tabbed-content">
-      <div class="tab active" data-target="tab1">
-        <h2>Tab 1 Content</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, voluptate, quod, quibusdam, doloremque quae voluptates quia quidem nemo quos autem fugit doloribus. Quisquam, voluptate, quod, quibusdam, doloremque quae voluptates quia quidem nemo quos autem fugit doloribus.</p>
-      </div>
-      <div class="tab" data-target="tab2">
-        <h2>Tab 2 Content</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-      </div>
-      <div class="tab" data-target="tab3">
-        <h2>Tab 3 Content</h2>
-        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+  <h1>Quiz App</h1>
+  <div class="question-container" id="questionContainer"></div>
+  <button class="submit disabled">Submit Quiz</button>
+  <div class="results">
+    <div class="resultsIn">
+      <div class="resultsInData">
       </div>
     </div>
   </div>
